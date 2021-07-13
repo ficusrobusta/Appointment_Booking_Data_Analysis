@@ -19,7 +19,7 @@ description explainer attached in an excel.
 # What we are looking for from you:
 
 In this test we are looking for you to:
-● Manipulate data to draw insights & then communicate these insights effectively to senior
+- Manipulate data to draw insights & then communicate these insights effectively to senior
 non-technical colleagues
 ● Consider and deal with ‘edge cases’ or ‘irregularities’ in the data
 ● Present your findings in a clear and concise manner relevant to briefings for senior
