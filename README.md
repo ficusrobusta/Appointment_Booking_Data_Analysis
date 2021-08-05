@@ -2,7 +2,7 @@
 
 # Background
 
-At **** we want to understand the impact of new features on our customer base, in as much detail as possible. As we attempt to build new channels to connect the in store to the online we develop new products and build on existing features. One of these new products is referred to as ‘One to One Appointments Booking’, which is a pre-booking system designed to schedule Go Instore calls in advance. Customers can book, cancel or modify their booking prior to the scheduled launch of the 2 way video call.
+At **** we want to understand the impact of new features on our customer base, in as much detail as possible. As we attempt to build new channels to connect the in store to the online we develop new products and build on existing features. One of these new products is referred to as ‘One to One Appointments Booking’, which is a pre-booking system designed to schedule calls in advance. Customers can book, cancel or modify their booking prior to the scheduled launch of the 2 way video call.
 
 # The task
 
@@ -29,5 +29,5 @@ research to life more
 # Tips for completing the test:
 
 - You can undertake the analysis using whichever tools or techniques you like (e.g. R, Python, Power BI, Excel etc..). We suggest you use the tools you are most familiar and comfortable with.
-- The output of your work should be appropriate for your imaginary audience (eg. Go Instore’s Senior Leadership Team).
+- The output of your work should be appropriate for your imaginary audience (eg. Senior Leadership Team).
 - Don’t over complicate it.
